@@ -1,0 +1,11 @@
+{
+  "name": "colors_example",
+  "version": "1.0.0",
+  "description": "example code for using the node.js package for prompt output colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derek Runberg",
+  "license": "ISC"
+}
